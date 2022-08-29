@@ -1,0 +1,1 @@
+Predicting Stroke with 94% accuracy based on the input parameters like gender, age, various diseases, and smoking status Using  Machine Learning models. The data was downloaded from kaggle.com (https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset ) 
